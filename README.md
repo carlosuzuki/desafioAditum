@@ -1,5 +1,5 @@
 
-# Desafio Aditum C++
+# QT Creator com C++
 
 ### Descrição do projeto:
 
